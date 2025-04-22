@@ -20,7 +20,9 @@ Veel verschillende expertises zoals eerder genoemd, iedereen is creatief en gedr
 Autisme. Makkelijk afgeleid. None.
 
 # Needs & Expectations
-Iets waar we rekening mee moeten houden is dat Sophie soms afwezig is door persoonlijk afspraken, vaak op vrijdag of donderdag, Maarten heeft graag een fijne werkplek
+Iets waar we rekening mee moeten houden is dat Sophie soms afwezig is door persoonlijk afspraken, vaak op vrijdag of donderdag.
+Thomas heeft op maandag ochtend en woensdag werk.
+Maarten heeft graag een fijne werkplek
 
 # Rules and activities
 - Communiceer als je te laat bent of er niet bent in de groepsapp
