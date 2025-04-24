@@ -6,18 +6,18 @@ CMD-Methode kaart: Literature study
 ### 2. Hoe stimuleren de IVM's keuzes?
 CMD-Methode kaart: A/B testing, online analytics
 
-### 3. 
-CMD-Methode kaart:
+### 3. Wat voor mensen maken gebruik van vending machines?
+CMD-Methode kaart: Observation
 
 ## Ontwerpen
-### 1. Welke OOH gebruikers willen wij ons op richten?
+### 1. Op welke OOH gebruikers willen wij ons richten?
 CMD-Methode kaart: Comparison chart
 
-### 2. 
-CMD-Methode kaart:
+### 2. Wat voor elementen associeren mensen met duurzame producten?
+CMD-Methode kaart: Trend analysis
 
-### 3. 
-CMD-Methode kaart:
+### 3. Op wat voor manier kan de huisstijl van mars gebruikt worden om gebruikers te sturen naar gezondere producten?
+CMD-Methode kaart: A/B testing
 
 ## Evalueren
 ### 1. Begrijpen gebruikers de impact die keuze heeft?
