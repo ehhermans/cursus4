@@ -22,7 +22,7 @@ Autisme. Makkelijk afgeleid. None.
 # Needs & Expectations
 Iets waar we rekening mee moeten houden is dat Sophie soms afwezig is door persoonlijk afspraken, vaak op vrijdag of donderdag.
 Thomas heeft op maandag ochtend en woensdag werk.
-Maarten heeft graag een fijne werkplek
+Maarten heeft in het weekend en op sommige avonden werk, en graag een fijne rustige werkplek
 
 # Rules and activities
 - Communiceer als je te laat bent of er niet bent in de groepsapp
