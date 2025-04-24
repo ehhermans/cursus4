@@ -23,8 +23,8 @@ CMD-Methode kaart: A/B testing
 ### 1. Begrijpen gebruikers de impact die keuze heeft?
 CMD-Methode kaart: Focusgroup
 
-### 2. 
-CMD-Methode kaart:
+### 2. Hoe voelt de gebruiker zich na het maken van hun keuze gezond/ongezond?
+CMD-Methode kaart: Think aloud
 
 ### 3. 
 CMD-Methode kaart:
