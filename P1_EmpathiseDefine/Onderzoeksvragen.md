@@ -13,28 +13,28 @@ CMD-Methode kaart:
 ### 1. Welke OOH gebruikers willen wij ons op richten?
 CMD-Methode kaart: Comparison chart
 
-### 2. Vraag
+### 2. 
 CMD-Methode kaart:
 
-### 3. Vraag
+### 3. 
 CMD-Methode kaart:
 
 ## Evalueren
 ### 1. Begrijpen gebruikers de impact die keuze heeft?
 CMD-Methode kaart: Focusgroup
 
-### 2. Vraag
+### 2. 
 CMD-Methode kaart:
 
-### 3. Vraag
+### 3. 
 CMD-Methode kaart:
 
 ## Opleveren
 ### 1. Welke inkomsten bronnen ziet Mars als duurzaam?
 CMD-Methode kaart:
 
-### 2. Vraag
+### 2. 
 CMD-Methode kaart:
 
-### 3. Vraag
+### 3. 
 CMD-Methode kaart:
