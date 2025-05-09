@@ -44,7 +44,7 @@ Op de website van MARS zijn de verschillende sectoren mooi ingedeeld door het be
 
 !! Let erop dat ik geen gebruik heb gemaakt van een checkmarks en kruisjes en juist veel tekst heb toegevoegd.
 
-[Comparison chart](OOHtarget_comparisonchart.png)
+![Comparison chart][OOHtarget_comparisonchart.png]
 
 ### 2. Wat voor elementen associeren mensen met duurzame producten?
 CMD-Methode kaart: Trend analysis
