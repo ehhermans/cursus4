@@ -4,8 +4,6 @@
 CMD-Methode kaart: Literature study
 
 #### Lessen the environmental impact
-Analyseren
-CMD-Methode kaart: Literature study
 
 Door Thomas:
 - [Lessen the environmental impact](https://www.mars.com/sustainability-plan/healthy-planet)
