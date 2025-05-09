@@ -1,6 +1,6 @@
 ## Sanne
 
-![sanne][/P1_EmpathiseDefine/resources/sanne.png]
+![sanne](/P1_EmpathiseDefine/resources/sanne.png)
 
 - Naam: Sanne Visser  
 - Leeftijd: 22 jaar  
@@ -26,7 +26,7 @@ Sanne studeert op het HBO en woont op kamers. Ze heeft vaak geen zin om te koken
 
 ## Jorik
 
-![jorik][/P1_EmpathiseDefine/resources/jorik.png]
+![jorik](/P1_EmpathiseDefine/resources/jorik.png)
 
 -  Naam: Jorik Winter  
 -  Leeftijd: 37  
@@ -52,7 +52,7 @@ Jorik is vader van 2 jonge kinderen en neemt hen graag mee op uitjes zoals naar 
 
 ## Saskia
 
-![saskia][/P1_EmpathiseDefine/resources/saskia.png]
+![saskia](/P1_EmpathiseDefine/resources/saskia.png)
 
 -  Naam: Saskia de Koning  
 -  Leeftijd: 48  
