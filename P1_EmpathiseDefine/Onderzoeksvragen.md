@@ -64,6 +64,8 @@ Door Sophie:
 - simplicity, but also emotional depth;
 - sturdier material (security).
 
+![Moodboard](/P1_EmpathiseDefine/moodboard.png)
+
 bronnen:
 https://aodr.org/xml//42734/42734.pdf
 https://medium.com/@hwabtnoname/understanding-emotionally-durable-design-57f44215694d
