@@ -1,4 +1,4 @@
-# Wat betekent gezond/duurzaam? - Brainstormen
+# Wat betekent gezond/duurzaam?
 _Maarten_
 
 ## Creatieve Techniek: Zes denkhoeden van De Bono
