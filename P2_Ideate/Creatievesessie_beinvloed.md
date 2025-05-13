@@ -1,2 +1,2 @@
-# Hoe kunnen we aankopen beinvloeden? - Sketchstorm
-_Jochem_
+# Hoe kunnen we aankopen beinvloeden? - Personage bestorming
+_Levi_
