@@ -4,3 +4,10 @@ Je houdt de github goed bij en zorgt ervoor dat we alle opdrachten erin hebben s
 - Iets vaker een heads-up geven over dingen in de planning en niet alleen in de github
 ## Tops
 - Duidelijk rol verdeling in de github
+Tips:
+
+Sommige dingen kun je beter uitleggen/toelichten aan andere groepsgenoten zodat wij allemaal begrijpen wat we moeten doen volgens jou. -Sophie
+
+Tops:
+
+Ik vind dat je verantwoordelijk bent met de planning en aandacht brengt aan details die kunnen ontbreken. -Sophie
