@@ -1,2 +1,2 @@
 # Hoe kunnen we aankopen beinvloeden? - Personage bestorming
-_Levi_
+_Thomas_
