@@ -20,3 +20,49 @@ __Jorik:__ Jij bent samen met je twee zoons naar een pretpark gegaan en wilt wat
 __Sanne:__ Jij bent met een groep vrienden van je studie in een pretpark en komt ook op een plek waar wat etens kraampjes staan met wat snoepautomaten.
 
 __Saskia:__ Jij bent alleen naar een pretpark gegaan op een vrije dag. Je komt ook op hetzelfde plekje met etens kraampjes en wat snoepautomaten
+
+## Samenvatting
+
+### Jorik
+#### Bioscoop senario
+- Kinderen gaan snel naar machine en die willen de ongezonden dingen
+- Wilt niet dat kinder een zuiker aanval krijgen als ze moeten slapen en wilt dus dat ze iets gezonds kiezen
+- Niet duidelijk van een afstand of er gezond is en wat, je kent de bekende dingen wel zoals M&M
+- Is muslie gezond of niet?
+- In een film break kiest voor de vedding machine want de rij is kort en kinderen hebben weinig gedult
+- Als de IVM opvallend is met lekker dingen is dit een goede optie tijdens de break
+- Te weinig informatie voor de gezonde producten
+#### Amusement park senario
+- Wilt eerst de kraapjes rondkijken
+- Wilt de kinderen wat keuze geven maar ook gezond
+- Vind gezonde keuze wel belangrijk maar wilt wel nog voor wat lekkers kijken
+#### Waterpark senario
+- Kinderen neigen naar ongezonde keuzes doordat de gezonde producten niet aantrekkelijk zijn en vader weet het niet goed
+- Wil duidelijk zien of iets goeds beoordeeld is en lekker
+- Om een goed voorbeeld te geven kiest Jorik dan ook voor een gezonde optie als hij wist wat deze waren
+
+### Sanne
+#### Bioscoop senario
+- Kiest waarschijnlijk ongezonds en voelt erna slecht over de keuze
+- Machine is verder lopen dus net zo makkelijk
+- Makkelijker om iets mee te nemen
+- Weet niet zeker of de gezonde optie wel lekker is
+#### Amusement park senario
+- Gaat waarschijnlijk naar de frietkraam want ze heeft waarschijnlijk eigen snoep mee
+- Gaat liever voor een warme snack
+#### Waterpark senario
+- Veel producten lijken gezond maar zijn dit niet
+- Een slogun of een grap kan helpen met het overtuigen tot een gezonde keuze
+
+### Saskia
+#### Bioscoop senario
+- Kiest voor de IVM en de vertrouwde keuze omdat ze niet goed weet want anders
+- Kiest voor de IVM want is dan een vertrouwd gevoel
+- Gaat waarschijnlijk niks halen in een break wnat ze heeft al eerder wat gehaald
+#### Amusement park senario
+- Kijkt rond naar de opties om de IVM af te wegen
+- Heeft waarschijnlijk al eigen spullen bij zoals boterhammen
+#### Waterpark senario
+- Again duidelijkheid dus iets met labels
+- Ettiket van de producten is belangrijk om gezond over te komen
+- Als 50 jarige ben je meer oke met dingen niet per se lekker vinden als het gezond is
