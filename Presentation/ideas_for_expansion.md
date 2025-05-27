@@ -1,3 +1,3 @@
-- instead of adding a healthy product, substiuting it
+- instead of adding a healthy product, substituting it
 - healthy items are just an example rn, defenitly up for change
 - animation instead of still m&m image at the idle screen
