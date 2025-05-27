@@ -1,11 +1,10 @@
-### Show them our stuff
-- show old thing
-- show new thing
+### Onze dingen laten zien
+- momentele versie laten zien; gewoon kort laten zien
+- onze versie laten
+  - eerst laten zien en het laten in werken, er rustig doorheen werken
+  - Na eerste impressie vragen stelllen
+      - Is dit wat jullie verwachten, zitten we in de goede richting?
+      - Is er iets dat jullie echt niet goed vinden?
 
-- does it line up with your expectations, are we in the right direction?
-- is there things that you really don't like? 
-
-### Presentation
-- how will the presentation look, what are you expecting?
-
-
+### Presentatie
+- Hoe gaat de presenatie eruit zien, wat verwachten jullie van ons?
