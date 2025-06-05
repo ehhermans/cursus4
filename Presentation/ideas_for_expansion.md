@@ -6,6 +6,7 @@
 
 ## Opties voor verandering
 - Nu word er een extra gezond product aangeboden bij aankoop van een ongezoznd product. Om dit echt gezond te maken zou je dit willen doen met vervanging. Hiervoor zouden dan ook dingen als kleinere porties aangeboden kunnen worden ipv compleet andere producten
+- Verschillende soorten banners om gezonde of duurzame producten aan te bieden
 
 ## Verbeteringen voor in de toekomst
 - Om de klant van feedback te voorzien van hun aankoop zou een extra pop-up scherm handig zijn, bij dit pop up scherm zou ook nog een verschil gemaakt kunnen worden tussen gezonde en ongezonde aankoop als belonings gevoel 
