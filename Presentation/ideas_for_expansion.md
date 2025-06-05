@@ -2,3 +2,4 @@
 - healthy items are just an example rn, defenitly up for change
 - animation instead of still m&m image at the idle screen
 - paying feedback, positive feedback for sustainable choice
+- make information more attractive in a literal sense
