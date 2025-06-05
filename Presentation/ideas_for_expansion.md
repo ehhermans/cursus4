@@ -3,3 +3,4 @@
 - animation instead of still m&m image at the idle screen
 - paying feedback, positive feedback for sustainable choice
 - make information more attractive in a literal sense
+- how do we devide the sustainability stuff better
