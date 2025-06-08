@@ -9,6 +9,3 @@
 - Verschillende soorten banners om gezonde of duurzame producten aan te bieden
 - Extra betaal feedback scherm voor gezonder product
 - Om meer aandacht naar de informatie te leiden hebben we de info icoontjes laten vibreren, dit zou ook op een andere manier kunnen door het icoontje van kleur te veranderen of in de vorm van tekst in bijv de banner of het idle scherm (ex. 'Klik op (i) voor meer informatie over de producten')
-
-## Verbeteringen voor in de toekomst
-- Om de klant van de machine naar nog meer informatie te leiden zouden we bijvoorbeeld QR codes kunnen gebruiken bij de informatie blokjes, dit maakt de impact van de machine ook meetbaarder
